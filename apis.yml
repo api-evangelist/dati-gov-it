@@ -41,6 +41,8 @@ apis:
       - type: x-api-endpoint
         url: https://www.dati.gov.it/opendata/api/3/action/status_show
 common:
+  - type: DomainSecurity
+    url: security/dati-gov-it-domain-security.yml
   - type: Website
     url: https://www.dati.gov.it/opendata
   - type: Documentation
